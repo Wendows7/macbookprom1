@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/Wendows7/macbookprom1/issues"
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "homepage": "https://github.com/Wendows7/macbookprom1#readme"
 }
