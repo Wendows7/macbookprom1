@@ -1,0 +1,19 @@
+{
+  "name": "is-macbookpro-m1",
+  "version": "1.0.0",
+  "description": "this my mac",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wendows7/macbookprom1.git"
+  },
+  "author": "arswendosryhd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wendows7/macbookprom1/issues"
+  },
+  "homepage": "https://github.com/Wendows7/macbookprom1#readme"
+}
